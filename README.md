@@ -10,9 +10,10 @@ Para mayor simplicidad al momento de probar y ejecutar el codigo se utilizará l
 1. Visita [Repl.it](https://repl.it/).
 2. Crea una nueva cuenta o inicia sesión si ya tienes una.
 3. Una vez en tu dashboard, selecciona "New Repl" y elige "Import from GitHub".
-4. Pega la URL del repositorio: `https://github.com/username/sistema-gestion-pacientes.git`.
+4. Pega la URL del repositorio: `https://github.com/YeahBro5/Tarea-1`.
 5. [Repl.it](http://repl.it/) clonará el repositorio y preparará un entorno de ejecución.
-6. Presiona el botón "Run" para compilar y ejecutar la aplicación.
+6. Configure el comando de compilacion con gcc tdas/*.c main.c -Wno-unused-result -o main y el comando run no se modifica (./main)
+7. Presiona el botón "Run" para compilar y ejecutar la aplicación.
 
 ## Funcionalidades
 ## Funcionando correctamente:
