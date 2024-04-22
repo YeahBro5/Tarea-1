@@ -28,7 +28,7 @@ Para mayor simplicidad al momento de probar y ejecutar el codigo se utilizará l
   
 ## A mejorar:
 * Implementar aún más funciones que se encarguen de mitigar los errores producidos por el usuario al momento de no realizar las solicitudes con el formato especificado.
-* Que el sistema sea mas bonito a la vista del usuario.
+* Mejorar la estética del sistema para que sea mas atractivo para el usuario.
   
 ## Ejemplo de uso:
 **Paso 1: Registrar un Nuevo Paciente**
