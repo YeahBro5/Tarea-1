@@ -66,8 +66,11 @@ Diego Zerene
 
 Prioridad Media:
 
+Lista Vacía.
 
 Prioridad Baja:
+
+Lista Vacía.
 
 ````
 La lista muestra a Diego Zerene en la parte superior, indicando su prioridad alta y que es el siguiente a ser atendido.
