@@ -25,7 +25,6 @@ Para mayor simplicidad al momento de probar y ejecutar el codigo se utilizará l
 
 ## Problemas conocidos:
 * En caso de que se introduzca la hora de llegada en un formato distinto al especificado, no se ordenará correctamente.
-* En caso de que el usuario introduzca una edad no válida, por ejemplo, "veinte años", en vez de 20, no se podrán guardar correctamente los datos.
   
 ## A mejorar:
 * Implementar aún más funciones que se encarguen de mitigar los errores producidos por el usuario al momento de no realizar las solicitudes con el formato especificado.
