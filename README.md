@@ -88,7 +88,7 @@ Prioridad: ALTA
 ````
 **Paso 5 (bonus): Mostrar pacientes por prioridad**
 
-Una vez atendido Diego Zerene, el doctor decide que quiere revisar si es que queda alguien mas en prioridad alta.
+Una vez atendido Diego Zerene, el doctor decide que quiere revisar si es que queda alguien más en prioridad alta.
 ````
 Opción seleccionada: 5) Mostrar pacientes por prioridad
 
