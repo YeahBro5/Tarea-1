@@ -69,8 +69,6 @@ Prioridad Media:
 
 Prioridad Baja:
 
-
-
 ````
 La lista muestra a Diego Zerene en la parte superior, indicando su prioridad alta y que es el siguiente a ser atendido.
 
